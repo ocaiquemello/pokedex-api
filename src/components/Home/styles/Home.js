@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import BugIcon from './Icon/Bug/Unselected.png'
 
 const gray2 = "#565555";
 
